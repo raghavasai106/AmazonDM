@@ -1,0 +1,8 @@
+jupyter lab
+jupyter notebook
+pandas
+seaborn
+matplot
+plotly
+pandoc
+dash

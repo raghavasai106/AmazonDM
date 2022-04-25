@@ -1,20 +1,20 @@
 # AmazonDM
 Data mining Project by Group 4
 
-# git clone the repo 
+# Git clone the Repo 
 into a IDE ( like PyCharm)
 
-# build a virtual environment and activate it.
+# Build a virtual environment and activate it.
 python3 -m venv env
 source env/bin/activate
 
-# install the requirement file
+# Install the requirement file
 pip install -r requirements.txt 
 
 # After installation 
 jupyter notebook 
 
-## to See the analysis and visualization in jupyter notebook
+## To view the analysis and visualization in jupyter notebook
 
 
 

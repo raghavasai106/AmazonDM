@@ -6,7 +6,7 @@ into a IDE ( like PyCharm)
 
 # Build a virtual environment 
 python3 -m venv env 
-# and activate it.
+# Activate the env 
 source env/bin/activate
 
 # Install the requirement file

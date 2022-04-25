@@ -14,7 +14,7 @@ pip install -r requirements.txt
 # After installation 
 jupyter notebook 
 
-## To view the analysis and visualization in jupyter notebook
+## To view the analysis and visualization in jupyter notebook, make sure the path of the excel sheets are in your root.
 
 
 

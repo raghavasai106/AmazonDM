@@ -5,7 +5,7 @@ Data mining Project by Group 4
 into a IDE ( like PyCharm)
 
 # Build a virtual environment and activate it.
-python3 -m venv env
+python3 -m venv env 
 source env/bin/activate
 
 # Install the requirement file

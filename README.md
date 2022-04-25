@@ -4,8 +4,9 @@ Data mining Project by Group 4
 # Git clone the Repo 
 into a IDE ( like PyCharm)
 
-# Build a virtual environment and activate it.
+# Build a virtual environment 
 python3 -m venv env 
+# and activate it.
 source env/bin/activate
 
 # Install the requirement file
